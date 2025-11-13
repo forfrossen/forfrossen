@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Frontend Tools
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-%2320232a?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-%2320232a?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  
 
@@ -70,7 +71,7 @@ Here are some ideas to get you started:
 ## Automation & Testing 
 ![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
@@ -105,6 +106,8 @@ Here are some ideas to get you started:
 # Webservers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![IIS](https://img.shields.io/badge/IIS-%23009639.svg?style=for-the-badge&logo=IIS&logoColor=white) 
+
 
 ---
 
@@ -115,18 +118,26 @@ Here are some ideas to get you started:
 
 ## Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
+![Nagios](https://img.shields.io/badge/Nagios-%23000000?style=for-the-badge&logo=Nagios&logoColor=white) 
+![Icinga2](https://img.shields.io/badge/Icinga-%2306062C?style=for-the-badge&logo=Icinga&logoColor=white) 
 
 
 ---
 
 ## ⚡ Tools & Package Management
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![YARN](https://img.shields.io/badge/YARN-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
+![PNPM](https://img.shields.io/badge/PNPM-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white) 
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![EsBuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black)
+![TurboRepo](https://img.shields.io/badge/turborepo-%23FF1E56.svg?style=for-the-badge&logo=turborepo&logoColor=black)
+
 
 ---
 
