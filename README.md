@@ -12,7 +12,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-## 👋 About Me
+## ℹ️ About Me
 
 I spent 14 years working in IT system administration before transitioning into professional frontend engineering.
 
